@@ -14,27 +14,27 @@ h1{
   margin: 100px;
 }
 h2{
-	color: green;
-	font-family: courier;
-	font-size: 40px;
-	text-align: center;
+  color: green;
+  font-family: courier;
+  font-size: 40px;
+  text-align: center;
 }
 h3{
   color: tomato;
-	font-family: courier;
-	font-size: 30px;
-	text-align: center;
+  font-family: courier;
+  font-size: 30px;
+  text-align: center;
 }
 h4{
-	color: tomato;
-	font-family: courier;
-	font-size: 30px;
+  color: tomato;
+  font-family: courier;
+  font-size: 30px;
 }
 p{
-	font-size: 20px;
-	color: aqua;
-	font-family: georgia;
-	text-align: center;
+  font-size: 20px;
+  color: aqua;
+  font-family: georgia;
+  text-align: center;
 }
 #h201{
 	color: tomato;
