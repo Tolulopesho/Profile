@@ -37,35 +37,35 @@ p{
   text-align: center;
 }
 #h201{
-	color: tomato;
-	text-align: center;
+  color: tomato;
+  text-align: center;
 }
 #img01{
-	height: 300px;
-	width: 300px;
-	border: 10px solid tomato;
-	border-radius: 50%;
-	margin-left: 500px;
+  height: 300px;
+  width: 300px;
+  border: 10px solid tomato;
+  border-radius: 50%;
+  margin-left: 500px;
 }
 #img02{
-	height: 50px;
-	width: 50px;
-	float: left;
+  height: 50px;
+  width: 50px;
+  float: left;
 }
 #p01{
-	text-align: center;
-	font-family: georgia;
-	color: aqua;
-	font-size: 25px;
-	padding-right: 20%;
-	padding-left: 20%;
+  text-align: center;
+  font-family: georgia;
+  color: aqua;
+  font-size: 25px;
+  padding-right: 20%;
+  padding-left: 20%;
 }
 table{
-	border: none;
-	width: 100%;
-	text-align: center;
+  border: none;
+  width: 100%;
+  text-align: center;
 }
 .p02{
-	padding-right: 20%;
-	padding-left: 20%;
+  padding-right: 20%;
+  padding-left: 20%;
 }
